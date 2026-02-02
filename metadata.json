@@ -1,0 +1,5 @@
+{
+  "name": "Clinical Trial Compliance Auditor",
+  "description": "An analytical tool to evaluate prospective registration and TRN reporting compliance in clinical trials, based on ICMJE guidelines.",
+  "requestFramePermissions": []
+}
